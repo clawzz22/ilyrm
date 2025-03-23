@@ -13,5 +13,5 @@ const CONFIG = {
     mess: "makasi loh sumpah ahahahahahahas",
     messDesc: "beneran makasih",
     btnAccept: "Okeeee",
-    messLink: "https://tenor.com/view/mark-lee-nct127-nct-yeah-gif-19984969"
+    messLink: "https://www.roblox.com/"
 };

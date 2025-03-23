@@ -61,7 +61,19 @@ header h2 {
 header h4 {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    color: chartreuse;
+    color: white;
+    position: relative;
+}
+
+header h4::after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-image: url('../img/loncat.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px auto;
 }
 
 @media only screen and (max-width: 500px) {
@@ -78,6 +90,18 @@ header h4 {
         font-family: 'Poppins', sans-serif;
         text-align: center;
         padding: 15px;
+        color: white;
+        position: relative;
+    }
+    header h4::after {
+        content: "";
+        display: block;
+        width: 80px;
+        height: 80px;
+        background-image: url('../img/loncat.gif');
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin: 10px auto;
     }
     #no {
         position: absolute;
@@ -111,8 +135,9 @@ header h4 {
 
 .intro-rust {
     font-family: 'Rust', sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
-    color: #ff5733;
+    color: white;
     font-weight: bold;
+    font-style: italic;
 }

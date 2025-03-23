@@ -6,7 +6,7 @@ const CONFIG = {
     title: "ILY ORANG KEREN AYO MABAR JANGAN SIBUK MULU (AKU SIH YG SIBUK)",
     desc: "BTW IL AKU GANTENG GA, JUJUR HAYO",
     btnYes: "GANTENG BANGET",
-    btnNo: "NggaK",
+    btnNo: "NGGAK",
     question: "mark lee sama aku ganteng mana ?",
     btnReply: "Send",
     reply: "aryandi lah dia kan lebih ganteng dari flavagen juga",

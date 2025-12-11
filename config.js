@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "bibuu kesayangannya akuuu",
     introTitle: "haloo bibuuu orang terkeren se dunia",
-    introDesc: "kamuuu lagii apaaan hehhehehehehehehehe",
+    introDesc: "kamuuu lagii apaaa hehhehehehehehehehe",
     btnIntro: "LANJUT SINIII",
     title: "bibuuuu nantiii sabtuuu maiin kesinii yaaa kitaaa heaaaliiinggg heehehehehehehehehehehehehehehehhehehe)",
     desc: "BTW BEEEEEE AKU GANTENG GA, JUJUR HAYO",
